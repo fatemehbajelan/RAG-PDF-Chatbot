@@ -1,0 +1,9 @@
+gradio
+sentence-transformers
+faiss-cpu
+numpy
+pymupdf
+transformers
+torch
+matplotlib
+pypdf
